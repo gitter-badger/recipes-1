@@ -1,5 +1,7 @@
 # Financial Recipes
 
+[![Join the chat at https://gitter.im/HIPERFIT/recipes](https://badges.gitter.im/HIPERFIT/recipes.svg)](https://gitter.im/HIPERFIT/recipes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Models and Pricing
 ------------------
 
